@@ -1,0 +1,8 @@
+Tamanho da janela de simulacao sugerida:
+1100 700
+
+Localizacao dos objectos:
+Docstation Rectangle(Point(0,0), Point(40,40))
+Movel Rectangle(Point(0,200), Point(100,300))
+Movel Circle(Point(1030,350),70)
+Movel Rectangle(Point(500,300),Point(600,400))

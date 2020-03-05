@@ -1,0 +1,4 @@
+Pontos de maior sujidade:
+250 400
+600 200
+850 100
