@@ -1,2 +1,2 @@
-# Python-Vacum-Cleaner
-Python automatic vacum cleaner simulation.
+# Python-Vacuum-Cleaner
+Python automatic vacuum cleaner simulation.
