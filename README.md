@@ -8,18 +8,18 @@ The various implementations are called in a starting menu and where the program 
 
 In any of the implementations the robot avoids obstacles and never get's out of the window.
 
-* First Implementation:
+#### First Implementation:
 
 The user can click anywhere in the graphic environment where the dirt must be removed. The robot leaves the dockstation and goes to that point to clean it. 
 Cleaning should cover about twice the area of the robot, with the point being clicked in the center of the area to be cleaned. After the cleaning process the point disappears;
 
-* Second Implementation:
+#### Second Implementation:
 
 The robot cleans the entire room in a back and forth motion. At the end the user defines some dirt points (given by mouse clicks). As in the first implementation, cleaning at these points should cover about twice the area of ​​the robot.
 The robot has a battery that must be charged after traveling twice the area of ​​the room. It will pause the service to return to the docstation and charge the battery (the battery is super-fast charging, taking the same 2 seconds). 
 There is a current charge indicator light that changes color when charging, when the battery is running out and when the battery is full.
 
-* Third Implementation:
+#### Third Implementation:
 
 In the final implementation, the configuration of obstacles in the room is done in two ways:
 * Read from a file;
